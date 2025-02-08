@@ -1,5 +1,5 @@
-## Hi I'm Akishige Yuguchi 👋
-- Robotics Researcher
+## Hi I'm Dr. Akishige Yuguchi 👋
+- Robotics-based Researcher & Educator
 <!--
 **ayuguchi/ayuguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
